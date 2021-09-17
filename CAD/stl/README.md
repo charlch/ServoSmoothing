@@ -2,9 +2,9 @@
 
 ### Colours
 
-A-*    white
-B-*    black
-C-*    blue
+A-*    white  
+B-*    black  
+C-*    blue  
 
 
   
